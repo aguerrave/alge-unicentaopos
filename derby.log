@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Fri Aug 07 22:27:12 VET 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-014f-0b3d-a049-00000cd2c0d0 
+on database directory /home/aguerra/unicentaopos-database  with class loader sun.misc.Launcher$AppClassLoader@3ad6a0e0 
+Loaded from file:/home/aguerra/NetBeansProjects/alge-unicentaopos/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_80-b15
+user.dir=/home/aguerra/NetBeansProjects/alge-unicentaopos
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
